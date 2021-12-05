@@ -1,0 +1,287 @@
+#EXTM3U 
+#EXTINF: -1 tvg-id="Ae.br" tvg-name="A&E" tvg-logo="http://i.imgur.com/7NKeRuh.png" group-title="Filmes e Séries", A&E
+http://tv.urllista.com/live/marcosmilton/lxbd0eiqxs/50614.m3u8
+#EXTINF: -1 tvg-id="Amc.br" tvg-name="AMC" tvg-logo="https://i.ibb.co/3d29fb6/1920px-AMC-logo-2019-svg.png" group-title="Filmes e Séries", AMC
+http://tv.urllista.com/live/marcosmilton/lxbd0eiqxs/40262.m3u8
+#EXTINF: -1 tvg-id="Axn.br" tvg-name="AXN" tvg-logo="http://i.imgur.com/cAGSnn7.png" group-title="Filmes e Séries", AXN
+http://tv.urllista.com/live/marcosmilton/lxbd0eiqxs/41468.m3u8
+#EXTINF: -1 tvg-id="Canalbrasil.br" tvg-name="Canal Brasil" tvg-logo="https://i.ibb.co/SKnMkTs/Canal-Brasil.png" group-title="Filmes e Séries", Canal Brasil
+http://tv.urllista.com/live/marcosmilton/lxbd0eiqxs/41517.m3u8
+#EXTINF: -1 tvg-id="Curta.br" tvg-name="Curta!" tvg-logo="https://i.imgur.com/IlzIxvv.png" group-title="Filmes e Séries", Curta!
+http://tv.urllista.com/live/marcosmilton/lxbd0eiqxs/41472.m3u8
+#EXTINF: -1 tvg-id="Eurochannel.br" tvg-logo="https://i.imgur.com/nViybwB.png" group-title="Filmes e Séries", Eurochannel
+http://tv.urllista.com/live/marcosmilton/lxbd0eiqxs/75172.m3u8
+#EXTINF: -1 tvg-id="Film & Arts" tvg-name="Film & Arts" tvg-logo="https://i.ibb.co/Rb5SCw8/Film-Arts.png" group-title="Filmes e Séries", Film&Arts
+http://tv.urllista.com/live/marcosmilton/lxbd0eiqxs/68536.m3u8
+#EXTINF: -1 tvg-id="Fx.br" tvg-name="FX" tvg-logo="http://i.imgur.com/GaQZSu6.png" group-title="Filmes e Séries", FX
+http://tv.urllista.com/live/marcosmilton/lxbd0eiqxs/41482.m3u8
+#EXTINF: -1 tvg-id="Lifetime.br" tvg-name="Lifetime" tvg-logo="https://i.ibb.co/nQL7c4X/1920px-Logo--2020-svg.png" group-title="Filmes e Séries", Lifetime
+http://tv.urllista.com/live/marcosmilton/lxbd0eiqxs/36914.m3u8
+#EXTINF: -1 tvg-id="Paramounthd.br" tvg-name="Paramount Channel" tvg-logo="http://i.imgur.com/yScrn6s.png" group-title="Filmes e Séries", Paramount Channel
+http://tv.urllista.com/live/marcosmilton/lxbd0eiqxs/41500.m3u8
+#EXTINF: -1 tvg-id="Primeboxbrazil.br" tvg-name="Prime Box Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/PrimeBoxBrazil2019.png" group-title="Filmes e Séries", Prime Box Brasil
+http://tv.urllista.com/live/marcosmilton/lxbd0eiqxs/68532.m3u8
+#EXTINF: -1 tvg-id="Sony" tvg-name="Sony" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="Filmes e Séries", Sony Channel
+http://tv.urllista.com/live/marcosmilton/lxbd0eiqxs/41470.m3u8
+#EXTINF: -1 tvg-id="Space.br" tvg-name="Space" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/1920px-SpaceLogo.svg.png" group-title="Filmes e Séries", Space
+http://tv.urllista.com/live/marcosmilton/lxbd0eiqxs/51048.m3u8
+#EXTINF: -1 tvg-id="Fox.br" tvg-name="Star Channel" tvg-logo="https://i.ibb.co/gy7wFQS/Star-Channel-2020-svg.png" group-title="Filmes e Séries", Star Channel
+http://tv.urllista.com/live/marcosmilton/lxbd0eiqxs/81802.m3u8
+#EXTINF: -1 tvg-id="Star Hits 1" tvg-name="Star Hits 1" tvg-logo="https://i.ibb.co/31vpVQR/Star-Hits-2021.png" group-title="Filmes e Séries", Star Hits
+http://tv.urllista.com/live/marcosmilton/lxbd0eiqxs/37335.m3u8
+#EXTINF: -1 tvg-id="Foxpremium2.br" tvg-name="Star Hits 2" tvg-logo="https://i.ibb.co/MgLWqzS/Star-Hits-222021-fw.png" group-title="Filmes e Séries", Star Hits 2
+http://tv.urllista.com/live/marcosmilton/lxbd0eiqxs/36973.m3u8
+#EXTINF: -1 tvg-id="Foxlife.br" tvg-name="Star Life" tvg-logo="https://i.ibb.co/hYZRdhd/Star-Life-2021-svg.png" group-title="Filmes e Séries", Star Life
+http://tv.urllista.com/live/marcosmilton/lxbd0eiqxs/41479.m3u8
+#EXTINF: -1 tvg-id="Studiouniversal.br" tvg-name="Studio Universal" tvg-logo="https://i.ibb.co/88d0jdq/Studio-Universal2016.png" group-title="Filmes e Séries", Studio Universal
+http://tv.urllista.com/live/marcosmilton/lxbd0eiqxs/41511.m3u8
+#EXTINF: -1 tvg-id="Syfy.br" tvg-name="SyFy" tvg-logo="https://i.ibb.co/F5P5TW3/1920px-SYFY-svg.png" group-title="Filmes e Séries", SyFy
+http://tv.urllista.com/live/marcosmilton/lxbd0eiqxs/41504.m3u8
+#EXTINF: -1 tvg-id="Tcm.br" tvg-name="TCM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png/250px-Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="Filmes e Séries", TCM
+http://tv.urllista.com/live/marcosmilton/lxbd0eiqxs/63644.m3u8
+#EXTINF: -1 tvg-id="Tnt.br" tvg-name="TNT" tvg-logo="https://i.ibb.co/304QVZk/TNT.png" group-title="Filmes e Séries", TNT
+http://tv.urllista.com/live/marcosmilton/lxbd0eiqxs/41507.m3u8
+#EXTINF: -1 tvg-id="TNTSerie.br" tvg-name="TNT Séries" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="Filmes e Séries", TNT Séries
+http://tv.urllista.com/live/marcosmilton/lxbd0eiqxs/41508.m3u8
+#EXTINF: -1 tvg-id="Universalchannel.br" tvg-name="Universal TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1920px-Universal_TV_logo.svg.png" group-title="Filmes e Séries", Universal TV
+http://tv.urllista.com/live/marcosmilton/lxbd0eiqxs/71655.m3u8
+#EXTINF: -1 tvg-id="Warner Channel" tvg-name="Warner Channel" tvg-logo="https://i.ibb.co/52mtgmd/Warner.png" group-title="Filmes e Séries", Warner Channel
+http://tv.urllista.com/live/marcosmilton/lxbd0eiqxs/38384.m3u8
+#EXTINF: -1 tvg-id="Cinemax.br" tvg-name="Cinemax" tvg-logo="https://i.ibb.co/tDw2S1r/1000-cb-20201205114958.png" group-title="Filmes", Cinemax
+http://tv.urllista.com/live/marcosmilton/lxbd0eiqxs/36926.m3u8
+#EXTINF: -1 tvg-id="HBO 1" tvg-name="HBO 1" tvg-logo="https://i.ibb.co/r0b3CS5/HBO-logo-svg.png" group-title="Filmes", HBO
+http://tv.urllista.com/live/marcosmilton/lxbd0eiqxs/36964.m3u8
+#EXTINF: -1 tvg-id="HBO Plus" tvg-name="HBO Plus" tvg-logo="https://i.ibb.co/bKbGDCK/1920px-Logohboplus2019-svg.png" group-title="Filmes", HBO +
+http://tv.urllista.com/live/marcosmilton/lxbd0eiqxs/41487.m3u8
+#EXTINF: -1 tvg-id="Hbo2.br" tvg-name="HBO 2" tvg-logo="https://i.ibb.co/3kpLTk8/HBO2-logo-fw.png" group-title="Filmes", HBO 2
+http://tv.urllista.com/live/marcosmilton/lxbd0eiqxs/36966.m3u8
+#EXTINF: -1 tvg-id="Hbofamily.br" tvg-name="HBO Family" tvg-logo="https://i.ibb.co/GvJm6N7/HBO-Family-2014-Stacked.png" group-title="Filmes", HBO Family
+http://tv.urllista.com/live/marcosmilton/lxbd0eiqxs/41486.m3u8
+#EXTINF: -1 tvg-id="Max.br" tvg-name="HBO Mundi" tvg-logo="https://i.ibb.co/Vgym28t/1024px-HBO-Mundi-svg.png" group-title="Filmes", HBO Mundi
+http://tv.urllista.com/live/marcosmilton/lxbd0eiqxs/36913.m3u8
+#EXTINF: -1 tvg-id="Maxup.br" tvg-name="HBO Pop" tvg-logo="https://i.ibb.co/VBbQnNT/1024px-HBO-Pop-svg.png" group-title="Filmes", HBO Pop
+http://tv.urllista.com/live/marcosmilton/lxbd0eiqxs/36911.m3u8
+#EXTINF: -1 tvg-id="Hbosignature.br" tvg-name="HBO Signature" tvg-logo="https://i.ibb.co/Yhw2tDW/1024px-HBO-Signature-svg.png" group-title="Filmes", HBO Signature
+http://tv.urllista.com/live/marcosmilton/lxbd0eiqxs/36962.m3u8
+#EXTINF: -1 tvg-id="Maxprime.br" tvg-name="HBO Xtreme" tvg-logo="https://i.ibb.co/XJ6kkpx/1280px-HBO-Xtreme-svg.png" group-title="Filmes", HBO Xtreme
+http://tv.urllista.com/live/marcosmilton/lxbd0eiqxs/36912.m3u8
+#EXTINF: -1 tvg-id="Megapix.br" tvg-name="Megapix" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Megapix_fundoclaro_midiaimpressa.png/1920px-Megapix_fundoclaro_midiaimpressa.png" group-title="Filmes", Megapix
+http://tv.urllista.com/live/marcosmilton/lxbd0eiqxs/41491.m3u8
+#EXTINF: -1 tvg-id="Tcaction.br" tvg-name="Telecine Action" tvg-logo="https://i.ibb.co/GWN6s1p/action-tc-fw.png" group-title="Filmes", Telecine Action
+http://tv.urllista.com/live/marcosmilton/lxbd0eiqxs/38418.m3u8
+#EXTINF: -1 tvg-id="Tccult.br" tvg-name="Telecine Cult" tvg-logo="https://i.ibb.co/ssMQFBy/cult-tc-fw.png" group-title="Filmes", Telecine Cult
+http://tv.urllista.com/live/marcosmilton/lxbd0eiqxs/41506.m3u8
+#EXTINF: -1 tvg-id="Tcfun.br" tvg-name="Telecine Fun" tvg-logo="https://i.ibb.co/KDqNY0K/fun-tc-fw.png" group-title="Filmes", Telecine Fun
+http://tv.urllista.com/live/marcosmilton/lxbd0eiqxs/38417.m3u8
+#EXTINF: -1 tvg-id="Tcpipoca.br" tvg-name="Telecine Pipoca" tvg-logo="https://i.ibb.co/Z84G5WZ/pipoca-tc-fw.png" group-title="Filmes", Telecine Pipoca
+http://tv.urllista.com/live/marcosmilton/lxbd0eiqxs/38416.m3u8
+#EXTINF: -1 tvg-id="Tcpremium.br" tvg-name="Telecine Premium" tvg-logo="https://i.ibb.co/6W6kJLP/TC-Premium-2019-stacked.png" group-title="Filmes", Telecine Premium
+http://tv.urllista.com/live/marcosmilton/lxbd0eiqxs/38415.m3u8
+#EXTINF: -1 tvg-id="Tctouch.br" tvg-name="Telecine Touch" tvg-logo="https://i.ibb.co/mzG2JRM/touch-tc-fw.png" group-title="Filmes", Telecine Touch
+http://tv.urllista.com/live/marcosmilton/lxbd0eiqxs/38414.m3u8
+#EXTINF: -1 tvg-id="Discovery Animal Planet" tvg-name="Discovery Animal Planet" tvg-logo="https://i.ibb.co/tB4yN93/1920px-2018-Animal-Planet-logo-svg.png" group-title="Documentários", Animal Planet
+http://tv.urllista.com/live/marcosmilton/lxbd0eiqxs/36992.m3u8
+#EXTINF: -1 tvg-id="Discovery Channel" tvg-name="Discovery Channel" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bd/Discovery_Channel_logo.png" group-title="Documentários", Discovery Channel
+http://tv.urllista.com/live/marcosmilton/lxbd0eiqxs/50681.m3u8
+#EXTINF: -1 tvg-id="DiscoveryScience.br" tvg-name="Discovery Science" tvg-logo="https://i.ibb.co/JsJmrvX/Discovery-Science-LA-2011.png" group-title="Documentários", Discovery Science
+http://tv.urllista.com/live/marcosmilton/lxbd0eiqxs/50708.m3u8
+#EXTINF: -1 tvg-id="Hdtheater.br" tvg-name="Discovery Theater" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/1920px-2015_Discovery_theater_HD_logo.svg.png" group-title="Documentários", Discovery Theater
+http://tv.urllista.com/live/marcosmilton/lxbd0eiqxs/36983.m3u8
+#EXTINF: -1 tvg-id="History 1" tvg-name="History 1" tvg-logo="https://i.ibb.co/82mKRND/History-2015.png" group-title="Documentários", History
+http://tv.urllista.com/live/marcosmilton/lxbd0eiqxs/38383.m3u8
+#EXTINF: -1 tvg-id="H2.br" tvg-name="History 2" tvg-logo="https://i.ibb.co/FXYqZ9G/History2-Logo2019.png" group-title="Documentários", History 2
+http://tv.urllista.com/live/marcosmilton/lxbd0eiqxs/36961.m3u8
+#EXTINF: -1 tvg-id="Discovery Investigação" tvg-name="Discovery Investigação" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1920px-InvestigationDiscoveryLogo2020.svg.png" group-title="Documentários", Investigação Discovery
+http://tv.urllista.com/live/marcosmilton/lxbd0eiqxs/41489.m3u8
+#EXTINF: -1 tvg-id="Nationalgeographic.br" tvg-name="National Geographic" tvg-logo="https://i.ibb.co/ySF93fs/National-Geographic-2008.png" group-title="Documentários", National Geographic
+http://tv.urllista.com/live/marcosmilton/lxbd0eiqxs/41280.m3u8
+#EXTINF: -1 tvg-id="Nat Geo Wild" tvg-name="Nat Geo Wild" tvg-logo="https://i.ibb.co/JdNFb0t/National-Geographic-Wild-2018-Mini.png" group-title="Documentários", National Geographic Wild
+http://tv.urllista.com/live/marcosmilton/lxbd0eiqxs/36955.m3u8
+#EXTINF: -1 tvg-id="Smithsonianchannel.br" tvg-name="Smithsonian Channel" tvg-logo="https://i.ibb.co/Fsz21HZ/Smithsonian-Channel-Stacked.png" group-title="Documentários", Smithsonian Channel
+http://tv.urllista.com/live/marcosmilton/lxbd0eiqxs/57389.m3u8
+#EXTINF: -1 tvg-id="Arte1.br" tvg-name="Arte 1" tvg-logo="http://i.imgur.com/uHwATw4.png" group-title="Variedades", Arte 1
+http://tv.urllista.com/live/marcosmilton/lxbd0eiqxs/41467.m3u8
+#EXTINF: -1 tvg-id="Bishd.br" tvg-name="BIS" tvg-logo="https://i.ibb.co/KmWK0pz/1920px-Logo-of-Bis-svg.png" group-title="Variedades", BIS
+http://tv.urllista.com/live/marcosmilton/lxbd0eiqxs/38403.m3u8
+#EXTINF: -1 tvg-id="Cheftv.br" tvg-logo="https://i.imgur.com/zG0SbMa.png" group-title="Variedades", Chef TV
+http://tv.urllista.com/live/marcosmilton/lxbd0eiqxs/63401.m3u8
+#EXTINF: -1 tvg-id="Comedycentral.br" tvg-name="Comedy Central" tvg-logo="https://i.ibb.co/Q6PN9qb/Comedy-Central-2018.png" group-title="Variedades", Comedy Central
+http://tv.urllista.com/live/marcosmilton/lxbd0eiqxs/40260.m3u8
+#EXTINF: -1 tvg-id="Homehealth.br" tvg-name="Discovery Home & Health" tvg-logo="https://i.ibb.co/fNXkvKM/512-cb-20200508204154.png" group-title="Variedades", Discovery Home & Health
+http://tv.urllista.com/live/marcosmilton/lxbd0eiqxs/74791.m3u8
+#EXTINF: -1 tvg-id="Discturbohd.br" tvg-name="Discovery Turbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1920px-Discovery_Turbo_logo.svg.png" group-title="Variedades", Discovery Turbo FHD
+http://tv.urllista.com/live/marcosmilton/lxbd0eiqxs/38388.m3u8
+#EXTINF: -1 tvg-id="Discovery World" tvg-name="Discovery World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1920px-World_Discovery_HD_logo.svg.png" group-title="Variedades", Discovery World
+http://tv.urllista.com/live/marcosmilton/lxbd0eiqxs/38387.m3u8
+#EXTINF: -1 tvg-id="DogTV.pt" tvg-name="DogTV" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/418HURWuYgL.png" group-title="Variedades", DogTV
+http://tv.urllista.com/live/marcosmilton/lxbd0eiqxs/63768.m3u8
+#EXTINF: -1 tvg-id="E.br" tvg-name="E!" tvg-logo="https://i.ibb.co/G2kgxDQ/E-2012.png" group-title="Variedades", E! Entertainment
+http://tv.urllista.com/live/marcosmilton/lxbd0eiqxs/62871.m3u8
+#EXTINF: -1 tvg-id="Fashiontv.br" tvg-name="Fashion TV" tvg-logo="https://i.ibb.co/jZTYYhT/1024px-Fashion-TV2019novo.png" group-title="Variedades", Fashion TV
+http://tv.urllista.com/live/marcosmilton/lxbd0eiqxs/63770.m3u8
+#EXTINF: -1 tvg-id="Foodnetworkhd.br" tvg-name="Food Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Food_Network_-_Logo_2016.png" group-title="Variedades", Food Network
+http://tv.urllista.com/live/marcosmilton/lxbd0eiqxs/36919.m3u8
+#EXTINF: -1 tvg-id="Gnt.br" tvg-name="GNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/GNT_logo-roxo.svg/1920px-GNT_logo-roxo.svg.png" group-title="Variedades", GNT
+http://tv.urllista.com/live/marcosmilton/lxbd0eiqxs/41484.m3u8
+#EXTINF: -1 tvg-id="Discovery HGTV" tvg-name="Discovery HGTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1920px-HGTV_US_Logo_2015.svg.png" group-title="Variedades", HGTV
+http://tv.urllista.com/live/marcosmilton/lxbd0eiqxs/40259.m3u8
+#EXTINF: -1 tvg-id="Idealtv.br" tvg-name="Love Nature" tvg-logo="https://i.imgur.com/f0WI5uQ.png" group-title="Variedades", Love Nature
+http://tv.urllista.com/live/marcosmilton/lxbd0eiqxs/76525.m3u8
+#EXTINF: -1 tvg-id="+globosat.br" tvg-name="Mais na Tela" tvg-logo="https://i.ibb.co/g4q03g6/Mais-Na-Tela-Preto-2020.png" group-title="Variedades", Mais na Tela
+http://tv.urllista.com/live/marcosmilton/lxbd0eiqxs/42902.m3u8
+#EXTINF: -1 tvg-id="Mtv.br" tvg-name="MTV" tvg-logo="https://i.ibb.co/HFZZgTF/MTV-2021.png" group-title="Variedades", MTV
+http://tv.urllista.com/live/marcosmilton/lxbd0eiqxs/40266.m3u8
+#EXTINF: -1 tvg-id="Mtvlive.br" tvg-name="MTV Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/MTV_Live_HD_2017_logo.svg/1024px-MTV_Live_HD_2017_logo.svg.png" group-title="Variedades", MTV Live
+http://tv.urllista.com/live/marcosmilton/lxbd0eiqxs/41492.m3u8
+#EXTINF: -1 tvg-id="Multishow.br" tvg-name="Multishow" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Multishow.png/1920px-Multishow.png" group-title="Variedades", Multishow
+http://tv.urllista.com/live/marcosmilton/lxbd0eiqxs/41493.m3u8
+#EXTINF: -1 tvg-id="Musicboxbrazil.br" tvg-name="Music Box Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/LogoMusicRoxo.png" group-title="Variedades", Music Box Brasil"
+http://tv.urllista.com/live/marcosmilton/lxbd0eiqxs/41494.m3u8
+#EXTINF: -1 tvg-id="SIC" tvg-logo="https://i.imgur.com/yEOokc0.png" group-title="Variedades", SIC Internacional
+http://tv.urllista.com/live/marcosmilton/lxbd0eiqxs/63784.m3u8
+#EXTINF: -1 tvg-id="Tbs.br" tvg-name="TBS" tvg-logo="https://i.ibb.co/sKM3wgS/TBS-2015.png" group-title="Variedades", TBS
+http://tv.urllista.com/live/marcosmilton/lxbd0eiqxs/36940.m3u8
+#EXTINF: -1 tvg-id="Discovery TLC" tvg-name="Discovery TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1920px-TLC_Logo.svg.png" group-title="Variedades", TLC
+http://tv.urllista.com/live/marcosmilton/lxbd0eiqxs/61964.m3u8
+#EXTINF: -1 tvg-id="TraceBrazuca.br" tvg-name="Trace Brazuca" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/05/TRACE-BRAZUCA-logo-rgb.png" group-title="Variedades", Trace Brazuca
+http://tv.urllista.com/live/marcosmilton/lxbd0eiqxs/73329.m3u8
+#EXTINF: -1 tvg-id="Travel Box<" tvg-name="Travel Box" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/TravelBoxBrazillogoatualizado.png" group-title="Variedades", Travel Box Brasil
+http://tv.urllista.com/live/marcosmilton/lxbd0eiqxs/63785.m3u8
+#EXTINF: -1 tvg-id="Tru TV" tvg-name="Tru TV" tvg-logo="https://i.ibb.co/mDTDMrX/Tru-TV-2014.png" group-title="Variedades", TruTV
+http://tv.urllista.com/live/marcosmilton/lxbd0eiqxs/41509.m3u8
+#EXTINF: -1 tvg-id="VH1.br" tvg-name="VH1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MTV_00s_remaster.png/230px-MTV_00s_remaster.png" group-title="Variedades", MTV 00s
+http://tv.urllista.com/live/marcosmilton/lxbd0eiqxs/36900.m3u8
+#EXTINF: -1 tvg-id="Viva.br" tvg-name="Viva" tvg-logo="https://i.ibb.co/7tk7M3Q/1000-cb-20201122194019.png" group-title="Variedades", Viva
+http://tv.urllista.com/live/marcosmilton/lxbd0eiqxs/38393.m3u8
+#EXTINF: -1 tvg-id="Band Sports" tvg-name="Band Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5d/BandSports_logo_2018.png" group-title="Esportes", BandSports
+http://tv.urllista.com/live/marcosmilton/lxbd0eiqxs/42900.m3u8
+#EXTINF: -1 tvg-id="Combatehd.br" tvg-name="Combate" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Canal-combate-logo.png/1920px-Canal-combate-logo.png" group-title="Esportes", Combate
+http://tv.urllista.com/live/marcosmilton/lxbd0eiqxs/38428.m3u8
+#EXTINF: -1 tvg-id="ESPN 1" tvg-name="ESPN 1" tvg-logo="https://i.ibb.co/kGBGkX7/512-cb-20201130040927.png" group-title="Esportes", ESPN
+http://tv.urllista.com/live/marcosmilton/lxbd0eiqxs/38401.m3u8
+#EXTINF: -1 tvg-id="ESPN+.br" tvg-name="ESPN 2" tvg-logo="https://i.ibb.co/xXzqyKj/1000-cb-20180427153715.png" group-title="Esportes", ESPN 2
+http://tv.urllista.com/live/marcosmilton/lxbd0eiqxs/36976.m3u8
+#EXTINF: -1 tvg-id="Espnbrasil.br" tvg-name="ESPN Brasil" tvg-logo="https://i.ibb.co/N1JbGyK/Logo-espnbrasil.png" group-title="Esportes", ESPN Brasil
+http://tv.urllista.com/live/marcosmilton/lxbd0eiqxs/38413.m3u8
+#EXTINF: -1 tvg-id="Espnextra.br" tvg-name="ESPN Extra" tvg-logo="https://i.ibb.co/RQ5FcGy/ESPN-Extra-Brazil-logo.png" group-title="Esportes", ESPN Extra
+http://tv.urllista.com/live/marcosmilton/lxbd0eiqxs/38380.m3u8
+#EXTINF: -1 tvg-id="Fishtv.br" tvg-name="Fish TV" tvg-logo="http://i.imgur.com/IroXP7H.png" group-title="Esportes", Fish TV
+http://tv.urllista.com/live/marcosmilton/lxbd0eiqxs/42911.m3u8
+#EXTINF: -1 tvg-id="Fox Sports 1" tvg-name="Fox Sports 1" tvg-logo="https://i.ibb.co/x6VJw14/999-cb-20180810230802.png" group-title="Esportes", Fox Sports
+http://tv.urllista.com/live/marcosmilton/lxbd0eiqxs/36970.m3u8
+#EXTINF: -1 tvg-id="Foxsports2.br" tvg-name="Fox Sports 2" tvg-logo="https://i.ibb.co/HG9fchQ/1000-cb-20160413213908.png" group-title="Esportes", Fox Sports 2
+http://tv.urllista.com/live/marcosmilton/lxbd0eiqxs/36971.m3u8
+#EXTINF: -1 tvg-id="Off.br" tvg-name="Off" tvg-logo="https://i.ibb.co/Y8rTRqz/Canal-Off-logo-svg.png" group-title="Esportes", Off
+http://tv.urllista.com/live/marcosmilton/lxbd0eiqxs/41499.m3u8
+#EXTINF: -1 tvg-id="Premiere 1 Clubes" tvg-name="Premiere 1 Clubes" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png" group-title="Esportes", Premiere Clubes
+http://tv.urllista.com/live/marcosmilton/lxbd0eiqxs/40783.m3u8
+#EXTINF: -1 tvg-id="Premiere 2" tvg-name="Premiere 2" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png" group-title="Esportes", Premiere 2
+http://tv.urllista.com/live/marcosmilton/lxbd0eiqxs/38410.m3u8
+#EXTINF: -1 tvg-id="Premiere 3" tvg-name="Premiere 3" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png" group-title="Esportes", Premiere 3
+http://tv.urllista.com/live/marcosmilton/lxbd0eiqxs/38409.m3u8
+#EXTINF: -1 tvg-id="Premiere 4" tvg-name="Premiere 4" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png" group-title="Esportes", Premiere 4
+http://tv.urllista.com/live/marcosmilton/lxbd0eiqxs/50976.m3u8
+#EXTINF: -1 tvg-id="Premiere 5" tvg-name="Premiere 5" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png" group-title="Esportes", Premiere 5
+http://tv.urllista.com/live/marcosmilton/lxbd0eiqxs/50983.m3u8
+#EXTINF: -1 tvg-id="SporTV 1 A" tvg-name="SporTV 1 A" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/SporTV_2021.svg/revision/latest/scale-to-width-down/300?cb=20211110180939" group-title="Esportes", SporTV
+http://tv.urllista.com/live/marcosmilton/lxbd0eiqxs/38419.m3u8
+#EXTINF: -1 tvg-id="SporTV 2 A" tvg-name="SporTV 2 A" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/97/Sportv2_2021.png/revision/latest/scale-to-width-down/285?cb=20211110225642" group-title="Esportes", SporTV 2
+http://tv.urllista.com/live/marcosmilton/lxbd0eiqxs/36943.m3u8
+#EXTINF: -1 tvg-id="SporTV 3 A" tvg-name="SporTV 3 A" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/39/Sportv3_2021.png/revision/latest/scale-to-width-down/285?cb=20211110230042" group-title="Esportes", SporTV 3
+http://tv.urllista.com/live/marcosmilton/lxbd0eiqxs/38394.m3u8
+#EXTINF: -1 tvg-id="Woohoo.br" tvg-name="Woohoo" tvg-logo="https://i.ibb.co/y4wY3kP/Woohoo-2014.png" group-title="Esportes", Woohoo
+http://tv.urllista.com/live/marcosmilton/lxbd0eiqxs/36899.m3u8
+#EXTINF: -1 tvg-id="Band News" tvg-name="Band News" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8f/Topo.png" group-title="Notícias", Bandnews
+http://tv.urllista.com/live/marcosmilton/lxbd0eiqxs/38391.m3u8
+#EXTINF: -1 tvg-id="Cnnbrasil.br" tvg-name="CNN Brasil" tvg-logo="https://i.ibb.co/qMkdcv9/200-cb-20200204234723.png" group-title="Notícias", CNN Brasil
+http://tv.urllista.com/live/marcosmilton/lxbd0eiqxs/65041.m3u8
+#EXTINF: -1 tvg-name="CNN Espanhol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/1280px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" group-title="Notícias", CNN en Español
+http://tv.urllista.com/live/marcosmilton/lxbd0eiqxs/81018.m3u8
+#EXTINF: -1 tvg-name="CNN Internacional" tvg-logo="https://i.imgur.com/MhT0ccV.png" group-title="Notícias", CNN International
+http://tv.urllista.com/live/marcosmilton/lxbd0eiqxs/81017.m3u8
+#EXTINF: -1 tvg-id="Globo News" tvg-name="Globo News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/GloboNews_logo.svg/1920px-GloboNews_logo.svg.png" group-title="Notícias", GloboNews
+http://tv.urllista.com/live/marcosmilton/lxbd0eiqxs/38397.m3u8
+#EXTINF: -1 tvg-id="Jovempannews" tvg-logo="https://i.imgur.com/YA2Vmr4.png" group-title="Notícias", Jovem Pan News
+http://tv.urllista.com/live/marcosmilton/lxbd0eiqxs/83444.m3u8
+#EXTINF: -1 tvg-id="Record News" tvg-name="Record News" tvg-logo="https://i.ibb.co/DLBCNDc/Logotipo-da-Record-News-2016.png" group-title="Notícias", Record News
+http://tv.urllista.com/live/marcosmilton/lxbd0eiqxs/41502.m3u8
+#EXTINF: -1 tvg-id="Agromais.br" tvg-name="AgroMais" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/AgroMais_2020_logo.png" group-title="Abertos", Agromais
+http://tv.urllista.com/live/marcosmilton/lxbd0eiqxs/76250.m3u8
+#EXTINF: -1 tvg-id="Band SP" tvg-name="Band SP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Rede_Bandeirantes_logo_2018.svg/1920px-Rede_Bandeirantes_logo_2018.svg.png" group-title="Abertos", Band
+http://tv.urllista.com/live/marcosmilton/lxbd0eiqxs/38429.m3u8
+#EXTINF: -1 tvg-id="Boa Vontade" tvg-name="Boa Vontade TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/BOA_VONTADE_2.png" group-title="Abertos", Boa Vontade TV
+http://tv.urllista.com/live/marcosmilton/lxbd0eiqxs/63719.m3u8
+#EXTINF: -1 tvg-id="CanaldoBoi.br" tvg-name="Canal do Boi" tvg-logo="https://i.ibb.co/8B1NqMq/Logo-Canal-do-Boi-PNG.png" group-title="Abertos", Canal do Boi
+http://tv.urllista.com/live/marcosmilton/lxbd0eiqxs/68528.m3u8
+#EXTINF: -1 tvg-id="Canalrural.br" tvg-name="Canal Rural" tvg-logo="https://canalrural.uol.com.br/wp-content/uploads/2018/08/canal_rural.png" group-title="Abertos", Canal Rural
+http://tv.urllista.com/live/marcosmilton/lxbd0eiqxs/63217.m3u8
+#EXTINF: -1 tvg-id="CancaoNova.br" tvg-name="Canção Nova TV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3f/Logotipo_da_TV_Can%C3%A7%C3%A3o_Nova.png" group-title="Abertos", Canção Nova TV
+http://tv.urllista.com/live/marcosmilton/lxbd0eiqxs/37023.m3u8
+#EXTINF: -1 tvg-id="Futura.br" tvg-name="Futura" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Canal_Futura.png/1024px-Canal_Futura.png" group-title="Abertos", Futura
+http://tv.urllista.com/live/marcosmilton/lxbd0eiqxs/41481.m3u8
+#EXTINF: -1 tvg-id="Globo PI" tvg-name="Globo PI" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="Abertos", Globo
+http://tv.urllista.com/live/marcosmilton/lxbd0eiqxs/42976.m3u8
+#EXTINF: -1 tvg-id="Polishop.br" tvg-name="Polishop" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/polishop-logo.png" group-title="Abertos", Polishop
+http://tv.urllista.com/live/marcosmilton/lxbd0eiqxs/67295.m3u8
+#EXTINF: -1 tvg-id="Record SP São Paulo" tvg-name="Record SP São Paulo" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="Abertos", Record TV
+http://tv.urllista.com/live/marcosmilton/lxbd0eiqxs/38421.m3u8
+#EXTINF: -1 tvg-id="Redebrasil.br" tvg-name="Rede Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/39/Logotipo_da_Rede_Brasil_de_Televis%C3%A3o.png" group-title="Abertos", Rede Brasil
+http://tv.urllista.com/live/marcosmilton/lxbd0eiqxs/37013.m3u8
+#EXTINF: -1 tvg-id="Rede TV" tvg-name="Rede TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9a/RedeTV%21_logo_2019.png" group-title="Abertos", RedeTV!
+http://tv.urllista.com/live/marcosmilton/lxbd0eiqxs/41518.m3u8
+#EXTINF: -1 tvg-id="SBT PI" tvg-name="SBT PI" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/800px-Logotipo_do_SBT.svg.png" group-title="Abertos", SBT
+http://tv.urllista.com/live/marcosmilton/lxbd0eiqxs/61840.m3u8
+#EXTINF: -1 tvg-id="Shoptime.br" tvg-name="Shoptime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Shoptime_logo.svg/1280px-Shoptime_logo.svg.png" group-title="Abertos", Shoptime
+http://tv.urllista.com/live/marcosmilton/lxbd0eiqxs/80366.m3u8
+#EXTINF: -1 tvg-id="Terraviva.br" tvg-name="Terra Viva" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Terra_Viva_logo.svg/1920px-Terra_Viva_logo.svg.png" group-title="Abertos", Terra Viva
+http://tv.urllista.com/live/marcosmilton/lxbd0eiqxs/63394.m3u8
+#EXTINF: -1 tvg-id="Tvbrasil.br" tvg-name="TV Brasil" tvg-logo="https://i.ibb.co/JQD8SHn/TVBrasil2019.png" group-title="Abertos", TV Brasil
+http://tv.urllista.com/live/marcosmilton/lxbd0eiqxs/75171.m3u8
+#EXTINF: -1 tvg-id="Tvcultura.br" tvg-name="TV Cultura" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/1024px-Cultura_logo_2013.svg.png" group-title="Abertos", TV Cultura
+http://tv.urllista.com/live/marcosmilton/lxbd0eiqxs/42903.m3u8
+#EXTINF: -1 tvg-id="Tvescola.br" tvg-name="TV Escola" tvg-logo="https://i.ibb.co/F5Db9Sr/TV-Escola.png" group-title="Abertos", TV Escola
+http://tv.urllista.com/live/marcosmilton/lxbd0eiqxs/36999.m3u8
+#EXTINF: -1 tvg-id="TVGazeta.br" tvg-name="TV Gazeta" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/TV_Gazeta.svg/1920px-TV_Gazeta.svg.png" group-title="Abertos", TV Gazeta
+http://tv.urllista.com/live/marcosmilton/lxbd0eiqxs/40120.m3u8
+#EXTINF: -1 tvg-id="Tvsenado.br" tvg-name="TV Senado" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/TV_Senado.svg/1920px-TV_Senado.svg.png" group-title="Abertos", TV Senado
+http://tv.urllista.com/live/marcosmilton/lxbd0eiqxs/63665.m3u8
+#EXTINF: -1 tvg-id="Baby TV" tvg-name="Baby TV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/ca/Baby_TV.png" group-title="Infantil", BabyTV
+http://tv.urllista.com/live/marcosmilton/lxbd0eiqxs/63635.m3u8
+#EXTINF: -1 tvg-id="Boomerang.br" tvg-name="Cartoon Network" tvg-logo="https://i.ibb.co/fnr0j5w/Cartoon-Network-2010.png" group-title="Infantil", Cartoon Network
+http://tv.urllista.com/live/marcosmilton/lxbd0eiqxs/41471.m3u8
+#EXTINF: -1 tvg-id="Boomerang.br" tvg-name="Cartoonito" tvg-logo="https://i.imgur.com/vM4HgvO.png" group-title="Infantil", Cartoonito
+http://tv.urllista.com/live/marcosmilton/lxbd0eiqxs/38390.m3u8
+#EXTINF: -1 tvg-id="Discoverykids.br" tvg-name="Discovery Kids" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d3/DKids2021.png" group-title="Infantil", Discovery Kids
+http://tv.urllista.com/live/marcosmilton/lxbd0eiqxs/36923.m3u8
+#EXTINF: -1 tvg-id="Disneychannel.br" tvg-name="Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/Disney_channel_2019.png" group-title="Infantil", Disney Channel
+http://tv.urllista.com/live/marcosmilton/lxbd0eiqxs/36921.m3u8
+#EXTINF: -1 tvg-id="Disneyjrhd.br" tvg-name="Disney Junior" tvg-logo="https://i.ibb.co/VMRb1yj/Disney-Junior-Logo-2020.png" group-title="Infantil", Disney Junior
+http://tv.urllista.com/live/marcosmilton/lxbd0eiqxs/41512.m3u8
+#EXTINF: -1 tvg-id="Disneyxd.br" tvg-name="Disney XD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/1280px-Disney_XD_-_2015.svg.png" group-title="Infantil", Disney XD
+http://tv.urllista.com/live/marcosmilton/lxbd0eiqxs/50717.m3u8
+#EXTINF: -1 tvg-id="Gloob.br" tvg-name="Gloob" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/GLOOB_VERDE.png" group-title="Infantil", Gloob
+http://tv.urllista.com/live/marcosmilton/lxbd0eiqxs/38396.m3u8
+#EXTINF: -1 tvg-id="Gloobinho.br" tvg-name="Gloobinho" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/GloobinhoLogo.png" group-title="Infantil", Gloobinho
+http://tv.urllista.com/live/marcosmilton/lxbd0eiqxs/41483.m3u8
+#EXTINF: -1 tvg-id="Nat Geo Kids" tvg-name="Nat Geo Kids" tvg-logo="https://i.ibb.co/DwjFNFR/1280px-Natgeo-Kids-logo-svg.png" group-title="Infantil", NatGeo Kids
+http://tv.urllista.com/live/marcosmilton/lxbd0eiqxs/41496.m3u8
+#EXTINF: -1 tvg-id="Nick Junior" tvg-name="Nick Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/1920px-Nick_Jr._logo_2009.svg.png" group-title="Infantil", Nick Jr
+http://tv.urllista.com/live/marcosmilton/lxbd0eiqxs/36908.m3u8
+#EXTINF: -1 tvg-id="Nick" tvg-name="Nick" tvg-logo="http://i.imgur.com/ZjLSLiY.png" group-title="Infantil", Nickelodeon
+http://tv.urllista.com/live/marcosmilton/lxbd0eiqxs/36907.m3u8
+#EXTINF: -1 tvg-id="Tooncast.br" tvg-name="Tooncast" tvg-logo="https://i.ibb.co/c6GMDnF/Tooncast.png" group-title="Infantil", Tooncast
+http://tv.urllista.com/live/marcosmilton/lxbd0eiqxs/63647.m3u8
+#EXTINF: -1 tvg-id="TV Rá Tim Bum" tvg-name="TV Rá Tim Bum" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/89/Tvratimbum2020.png" group-title="Infantil", TV Rá-Tim-Bum
+http://tv.urllista.com/live/marcosmilton/lxbd0eiqxs/41510.m3u8
+#EXTINF: -1 tvg-id="Zoomoo" tvg-name="Zoomoo" tvg-logo="https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_150,h_150/https://www.zoomookids.com.br/wp-content/uploads/2020/03/ZooMoo-Kids_Favicon-2020-300x300-1-150x150.png" group-title="Infantil", Zoomoo Kids
+http://tv.urllista.com/live/marcosmilton/lxbd0eiqxs/63778.m3u8
+#EXTINF: -1 tvg-id="Playboytv.br" tvg-name="Playboy TV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Logotipo_da_Playboy_TV.png" group-title="Adultos", Playboy TV
+http://tv.urllista.com/live/marcosmilton/lxbd0eiqxs/41513.m3u8
+#EXTINF: -1 tvg-id="Sexprive.br" tvg-name="Sex Prive" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/36/Sexprive.png" group-title="Adultos", Sexprivé
+http://tv.urllista.com/live/marcosmilton/lxbd0eiqxs/63643.m3u8
+#EXTINF: -1 tvg-id="Sextreme.cl" tvg-name="Sextreme" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/23/Sextreme.png" group-title="Adultos", Sextreme
+http://tv.urllista.com/live/marcosmilton/lxbd0eiqxs/62835.m3u8
+#EXTINF: -1 tvg-id="Sexyhot.br" tvg-name="Sexy Hot" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Sexy_Hot_logo.png" group-title="Adultos", Sexy Hot
+http://tv.urllista.com/live/marcosmilton/lxbd0eiqxs/61969.m3u8
+#EXTINF: -1 tvg-id="venus.pt" tvg-name="Venus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/1920px-Canal_Venus_logo.svg.png" group-title="Adultos", Venus
+http://tv.urllista.com/live/marcosmilton/lxbd0eiqxs/61967.m3u8
